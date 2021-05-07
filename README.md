@@ -13,7 +13,34 @@ A few small notes for context. I have been a developer for 5+ years at this poin
 Substrate is written in Rust, which is considered to have a fairly difficult learning curve at the beginning. Especially if you have never worked with a compiled and type safe language, such as C, C++, C#, Java, etc. Honestly, Rust is not recommended as a first programming language. If you are looking into your first programming language, I highly recommend C#, as it frankly has some of the best tooling around and can be used for web (asp.net), frontend (blazor), mobile applications, gaming (unity, mono), cross platform desktop applications (.net core 5+) and just about anything you can think of. C# has a long history and is well supported. Furthermore, it is a curly brace language {}, and from here, it will be easier to learn most other programming languages, including Rust.
 
 # Resources for Learning Rust
+
 ## Online Courses / Videos
+
+I watched most of these courses in paralell. I used Rust Fundamentals on Pluralsight as my topic guide. After finishing each topic/ section, I would watch the analegous section on the other courses (mostly). I find I better understand a topic after seeing more than one perspective on it. If you don't have access to the paid (free 1 month membership?) Pluralsight course, I would suggest instead starting with Rust Programming Tutorials (series) by Dcode as your main reference.
+
+### Ultimate Rush Crash Course (Udemy) <- PAID
+https://www.udemy.com/course/ultimate-rust-crash-course/
+
+This is one of the most popular Rust courses on Udemy and it fills a specific niche. It does cover all of the fundamentals of Rust in a short period of time. It is clear and includes some good (and sometimes difficult) sample challenges to keep you sharp. I would note however, you still need to go outside of this course to look up specific topics in more depth. Various important topics are glossed over too fast. Its key selling point in my mind, is that is complete (covers each topic) and gives an excellent outline of things you should know to get started with Rust.
+
+### Rust Fundamentals by Dmitri Nesteruk (Pluralsight) <- PAID
+www.pluralsight.com
+
+If you already have a Pluralsight subscription, this is a must watch. While it was recorded in 2015 it still retains its value as a fundamentals course for Rust. I found this course to be a little bit slower than the Udemy course, but that is not a bad thing. For a paid course, this IMHO is the best one I have taken. It would be great to see an updated version. Interestinly, this is the only Rust course on all of Pluralsight, which is a shame. If you can get a free trial month on Pluralsight, you can finish it in that amount of time.
+
+### Rust Tutorial Series by Doug Milford (Youtube)
+https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
+
+This is a really great series on Rust for beginners. Doug likes to compare it back to other programming languages, which is really nice. Be prepared for lots of dad jokes and other silly humor (which I think adds levity to an otherwise sometimes dry topic). Doug should probably be selling this course, because it is certainly worth the value. 
+
+The pros are the videos get into more detail than the Rust Fundamental course on Pluralsight. The cons are, the videos get into more details than the Rust Fundamentals course. It also offers a little less structure, which is to be expected for youtube content.
+
+### Rust Programming Tutorials (Series) by DCode (Youtube)
+https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
+
+Another solid series on youtube for free. This one compared to Doug Milfords is much more terse and to the point. It works great as a brief introduction to each topic or a refresher. Well worth the watch.
+
+
 ## Books
 ## Online Books & Articles
 
