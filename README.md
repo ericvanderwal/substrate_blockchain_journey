@@ -123,5 +123,24 @@ https://www.youtube.com/watch?v=el-9YYGN1nw
 https://zkp.science/
 List of various ZKP and libraries avaliable per language.
 
+## Merkle Tree & Hashing
+
+### Wikipedia
+https://en.wikipedia.org/wiki/Merkle_tree
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+Yup, wikipedia. Its pretty blah, but its a place to start if you don't know much about this topic.
+
+### Blockchain Basics Explained - Hashes with Mining and Merkle trees
+https://www.youtube.com/watch?v=lik9aaFIsl4
+Start here if you don't know what a Hash and Merkle Tree is. Then move onto something more technical.
+
+### Bitcoin 101 - Merkle Roots and Merkle Trees - Bitcoin Coding and Software - The Block Header
+https://www.youtube.com/watch?v=gUwXCt1qkBU
+A bit deeper look into how Merkle Roots/ Merkle Trees work. Not quite the do it yourself stage, but a better technical description of each part.
+
+### Merkle Tree with real world examples
+https://www.youtube.com/watch?v=qHMLy5JjbjQ
+Another look into the structur of Merkle Trees. Just around 10 minutes long.
+
 
 # To Be Watched
