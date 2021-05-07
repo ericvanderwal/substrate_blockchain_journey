@@ -43,27 +43,43 @@ Another solid series on youtube for free. This one compared to Doug Milfords is 
 
 ## Books
 
-### Hands-On Data Structures and Algorithms with Rust
-https://www.amazon.com/Hands-Data-Structures-Algorithms-Rust-ebook/dp/B07N7D6PG4/
-
-An 'intermediate' level book on data structures with Rust. For me, this was a 2.5 - 3 stars out of 5. It has some good leads on working with data structures in Rust, however, if you are not already familar with the data structures, then this is probably not the right place to start. Overall, I was hoping it would be a little more clear.
-
-### The Rust Programming Language (Covers Rust 2018)
+### The Rust Programming Language (Covers Rust 2018) <- Paid
 https://www.amazon.com/Rust-Programming-Language-Covers-2018-ebook/dp/B07SRQ97RD/
+
+Free version: https://doc.rust-lang.org/book/ <- Free Online Version
 
 "The official book on the Rust programming language, written by the Rust development team at the Mozilla Foundation, fully updated for Rust 2018."
 
 A good solid introduction to Rust from the Rust development team. It covers all of the major topics, but sometimes can be a bit light on the more advanced topics. As I mentioned above, no single source will teach you Rust and this book is no exception.
 
-### Programming Rust: Fast, Safe Systems Development
+### Hands-On Data Structures and Algorithms with Rust <- Paid
+https://www.amazon.com/Hands-Data-Structures-Algorithms-Rust-ebook/dp/B07N7D6PG4/
+
+An 'intermediate' level book on data structures with Rust. For me, this was a 2.5 - 3 stars out of 5. It has some good leads on working with data structures in Rust, however, if you are not already familar with the data structures, then this is probably not the right place to start. Overall, I was hoping it would be a little more clear.
+
+### Programming Rust: Fast, Safe Systems Development <- Paid
 https://www.amazon.com/Programming-Rust-Fast-Systems-Development-ebook/dp/B077NSY211
 
+Another introductory book on the topic of Rust. Covers all basic topics that one should know in order to get started.
 
-## Online Books & Articles
+## Online
 
+### Rust Website Documentation
+https://www.rust-lang.org/learn
 
+This will be key in learning Rust, as it contains all the official documentation. It is written quiet clearly, especially compared to some other languages documentation websites. This includes links to various online books for Rust as well. 
 
+### Rust By Example Projects
+https://doc.rust-lang.org/stable/rust-by-example/
 
+As the title implies, this is a series of Rust by example lessons that you can follow along with. I highly recommend this one as you can only 'really' learn to do something by actually doing it. (Otherwise it is purely theortical).
+
+### Rustlings Github
+https://github.com/rust-lang/rustlings/
+
+"Greetings and welcome to rustlings. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!"
+
+Want to get some more hands on code experience in Rust? This is another good place to do it (theorectically). I havent actually done this due to a lack of time. It is on my todo list however.
 
 # Blockchain
 
