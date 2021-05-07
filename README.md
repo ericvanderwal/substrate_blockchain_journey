@@ -42,7 +42,28 @@ Another solid series on youtube for free. This one compared to Doug Milfords is 
 
 
 ## Books
+
+### Hands-On Data Structures and Algorithms with Rust
+https://www.amazon.com/Hands-Data-Structures-Algorithms-Rust-ebook/dp/B07N7D6PG4/
+
+An 'intermediate' level book on data structures with Rust. For me, this was a 2.5 - 3 stars out of 5. It has some good leads on working with data structures in Rust, however, if you are not already familar with the data structures, then this is probably not the right place to start. Overall, I was hoping it would be a little more clear.
+
+### The Rust Programming Language (Covers Rust 2018)
+https://www.amazon.com/Rust-Programming-Language-Covers-2018-ebook/dp/B07SRQ97RD/
+
+"The official book on the Rust programming language, written by the Rust development team at the Mozilla Foundation, fully updated for Rust 2018."
+
+A good solid introduction to Rust from the Rust development team. It covers all of the major topics, but sometimes can be a bit light on the more advanced topics. As I mentioned above, no single source will teach you Rust and this book is no exception.
+
+### Programming Rust: Fast, Safe Systems Development
+https://www.amazon.com/Programming-Rust-Fast-Systems-Development-ebook/dp/B077NSY211
+
+
 ## Online Books & Articles
+
+
+
+
 
 # Blockchain
 
@@ -55,35 +76,36 @@ After having a basic understanding of what blockchain is and crypto, this is a g
 
 The videos and files are avaliable on demand without any sign up and were recorded in 2020.
 
+# Substrate
+
+
+
+
+
 # General or Advanced Knowledge Material
 
-## Online Courses / Videos
+## zk SNARK and zk Roll Ups
 
-### zk SNARK and zk Roll Ups
-
-[ELI5 Style] Everything you need to know about ZK Roll ups I Layer 2 Scalability Explained
+### [ELI5 Style] Everything you need to know about ZK Roll ups I Layer 2 Scalability Explained
 https://www.youtube.com/watch?v=IwY-D5J8otU
 
-Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains)
+### Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains)
 https://www.youtube.com/watch?v=BgCgauWVTs0
 
-Scaling Ethereum with Rollups – John Adler
+### Scaling Ethereum with Rollups – John Adler
 https://www.youtube.com/watch?v=l4jccXoqLGM
 
-Vitalik Buterin: An Incomplete Guide to Rollups Video & Docs
+### Vitalik Buterin: An Incomplete Guide to Rollups Video & Docs
 https://www.youtube.com/watch?v=wcCHlqgGSH4
 https://vitalik.ca/general/2021/01/05/rollup.html
 
-Online Documentation & Video for zkSync
+### Online Documentation & Video for zkSync
 https://zksync.io/faq/intro.html#introduction
 https://www.youtube.com/watch?v=el-9YYGN1nw
 
-
-
+### Zero-Knowledge Proofs Information
+https://zkp.science/
+List of various ZKP and libraries avaliable per language.
 
 
 # To Be Watched
-
-
-
-# Substrate
