@@ -55,4 +55,35 @@ After having a basic understanding of what blockchain is and crypto, this is a g
 
 The videos and files are avaliable on demand without any sign up and were recorded in 2020.
 
+# General or Advanced Knowledge Material
+
+## Online Courses / Videos
+
+### zk SNARK and zk Roll Ups
+
+[ELI5 Style] Everything you need to know about ZK Roll ups I Layer 2 Scalability Explained
+https://www.youtube.com/watch?v=IwY-D5J8otU
+
+Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains)
+https://www.youtube.com/watch?v=BgCgauWVTs0
+
+Scaling Ethereum with Rollups – John Adler
+https://www.youtube.com/watch?v=l4jccXoqLGM
+
+Vitalik Buterin: An Incomplete Guide to Rollups Video & Docs
+https://www.youtube.com/watch?v=wcCHlqgGSH4
+https://vitalik.ca/general/2021/01/05/rollup.html
+
+Online Documentation & Video for zkSync
+https://zksync.io/faq/intro.html#introduction
+https://www.youtube.com/watch?v=el-9YYGN1nw
+
+
+
+
+
+# To Be Watched
+
+
+
 # Substrate
