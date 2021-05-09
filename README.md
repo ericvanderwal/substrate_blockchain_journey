@@ -91,6 +91,11 @@ https://rust-unofficial.github.io/patterns/
 
 This book covers Rust design patterns, which differ a fair amount from traditional OOP programming. It covers some design patterns, anti-patterns and idioms to help you remember various aspects of building with Rust. At this point, I havent had enough time to read through it all to have a strong opionin about it. However, their seems to a lack of books in this specific area so far.
 
+## Single Topics
+
+### Rust Module Essentials (Working with Pub, Mod and Use)   
+https://dev.to/hertz4/rust-module-essentials-12oi
+
 # Blockchain
 
 ## Online Courses / Videos
