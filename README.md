@@ -118,44 +118,54 @@ The videos and files are avaliable on demand without any sign up and were record
 ## zk SNARK and zk Roll Ups
 
 ### [ELI5 Style] Everything you need to know about ZK Roll ups I Layer 2 Scalability Explained
-https://www.youtube.com/watch?v=IwY-D5J8otU
+https://www.youtube.com/watch?v=IwY-D5J8otU  
 
 ### Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains)
-https://www.youtube.com/watch?v=BgCgauWVTs0
+https://www.youtube.com/watch?v=BgCgauWVTs0  
 
 ### Scaling Ethereum with Rollups – John Adler
-https://www.youtube.com/watch?v=l4jccXoqLGM
+https://www.youtube.com/watch?v=l4jccXoqLGM  
 
 ### Vitalik Buterin: An Incomplete Guide to Rollups Video & Docs
-https://www.youtube.com/watch?v=wcCHlqgGSH4
-https://vitalik.ca/general/2021/01/05/rollup.html
+https://www.youtube.com/watch?v=wcCHlqgGSH4  
+https://vitalik.ca/general/2021/01/05/rollup.html  
 
 ### Online Documentation & Video for zkSync
-https://zksync.io/faq/intro.html#introduction
-https://www.youtube.com/watch?v=el-9YYGN1nw
+https://zksync.io/faq/intro.html#introduction  
+https://www.youtube.com/watch?v=el-9YYGN1nw  
 
 ### Zero-Knowledge Proofs Information
-https://zkp.science/
+https://zkp.science/  
 List of various ZKP and libraries avaliable per language.
 
 ## Merkle Tree & Hashing
 
 ### Wikipedia
-https://en.wikipedia.org/wiki/Merkle_tree
-https://en.wikipedia.org/wiki/Cryptographic_hash_function
+https://en.wikipedia.org/wiki/Merkle_tree  
+https://en.wikipedia.org/wiki/Cryptographic_hash_function  
 Yup, wikipedia. Its pretty blah, but its a place to start if you don't know much about this topic.
 
 ### Blockchain Basics Explained - Hashes with Mining and Merkle trees
-https://www.youtube.com/watch?v=lik9aaFIsl4
+https://www.youtube.com/watch?v=lik9aaFIsl4  
 Start here if you don't know what a Hash and Merkle Tree is. Then move onto something more technical.
 
 ### Bitcoin 101 - Merkle Roots and Merkle Trees - Bitcoin Coding and Software - The Block Header
-https://www.youtube.com/watch?v=gUwXCt1qkBU
+https://www.youtube.com/watch?v=gUwXCt1qkBU  
 A bit deeper look into how Merkle Roots/ Merkle Trees work. Not quite the do it yourself stage, but a better technical description of each part.
 
 ### Merkle Tree with real world examples
-https://www.youtube.com/watch?v=qHMLy5JjbjQ
+https://www.youtube.com/watch?v=qHMLy5JjbjQ  
 Another look into the structur of Merkle Trees. Just around 10 minutes long.
 
+## Cryptograhy
+
+### Cryptography For Beginners  
+https://www.youtube.com/watch?v=cqgtdkURzTE  
+
+### Build a cryptocurrency! - Blockchain in Rust #01: Blocks & Hashing   
+https://www.youtube.com/watch?v=vJdT05zl6jk&t=1139s  
+
+### Using cryptography in Rust - Part 1: Hashing  
+https://www.youtube.com/watch?v=prVk6jGs7Fo  
 
 # To Be Watched
