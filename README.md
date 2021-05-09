@@ -40,6 +40,11 @@ https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
 
 Another solid series on youtube for free. This one compared to Doug Milfords is much more terse and to the point. It works great as a brief introduction to each topic or a refresher. Well worth the watch.
 
+### Easy Rust - Learn To Program Rust in Simple English (Youtube)
+https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+
+The Easy Rust series is yet another very solid series in learning rust. This one also goes into depth quite a bit more, similar to Doug Milfords series, which is really helpful if you are trying to get beyond the absolute basics and tackle real world problems. It has over 180 videos, so allocate a fair amount of time if you want to watch it all!
+
 
 ## Books
 
@@ -80,6 +85,11 @@ https://github.com/rust-lang/rustlings/
 "Greetings and welcome to rustlings. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!"
 
 Want to get some more hands on code experience in Rust? This is another good place to do it (theorectically). I havent actually done this due to a lack of time. It is on my todo list however.
+
+### Rust Design Patterns - Online Book
+https://rust-unofficial.github.io/patterns/
+
+This book covers Rust design patterns, which differ a fair amount from traditional OOP programming. It covers some design patterns, anti-patterns and idioms to help you remember various aspects of building with Rust. At this point, I havent had enough time to read through it all to have a strong opionin about it. However, their seems to a lack of books in this specific area so far.
 
 # Blockchain
 
