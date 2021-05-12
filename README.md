@@ -91,12 +91,19 @@ https://rust-unofficial.github.io/patterns/
 
 This book covers Rust design patterns, which differ a fair amount from traditional OOP programming. It covers some design patterns, anti-patterns and idioms to help you remember various aspects of building with Rust. At this point, I havent had enough time to read through it all to have a strong opionin about it. However, their seems to a lack of books in this specific area so far.
 
-## Single Topics
+## Other Helpful Links (Misc)
 
 ### Rust Module Essentials (Working with Pub, Mod and Use)   
 https://dev.to/hertz4/rust-module-essentials-12oi
 
-# Blockchain
+Article on the difference between mod and use with pub in Rust.
+
+### Rust Code Explainer Live 
+https://jrvidal.github.io/explaine.rs/
+
+Paste your Rust code here and hover over the code to for an online explanation of the snippet. Helpful for new developers when you don't even know what keywords to search on google.
+
+# Blockchain (General)
 
 ## Online Courses / Videos
 
@@ -110,7 +117,7 @@ The videos and files are avaliable on demand without any sign up and were record
 # Substrate
 
 
-## Helpful Quick Links
+## Other Helpful Links (Misc)
 
 ### Polkadot JS Apps UI   
 https://polkadot.js.org/apps/#/explorer  
