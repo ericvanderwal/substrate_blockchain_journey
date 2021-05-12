@@ -67,7 +67,7 @@ https://www.amazon.com/Programming-Rust-Fast-Systems-Development-ebook/dp/B077NS
 
 Another introductory book on the topic of Rust. Covers all basic topics that one should know in order to get started.
 
-## Online
+## Online Documents
 
 ### Rust Website Documentation
 https://www.rust-lang.org/learn
@@ -115,7 +115,6 @@ After having a basic understanding of what blockchain is and crypto, this is a g
 The videos and files are avaliable on demand without any sign up and were recorded in 2020.
 
 # Substrate
-
 
 ## Other Helpful Links (Misc)
 
