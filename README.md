@@ -110,8 +110,11 @@ The videos and files are avaliable on demand without any sign up and were record
 # Substrate
 
 
+## Helpful Quick Links
 
-
+### Polkadot JS Apps UI   
+https://polkadot.js.org/apps/#/explorer  
+This online web prebuild front end UI can not only view the Polkadot network and other networks in real time, but also allows you to view your own development network. This is super helpful when working with substrate as a developer and need to connect a UI to your own dev environment.
 
 # General or Advanced Knowledge Material
 
