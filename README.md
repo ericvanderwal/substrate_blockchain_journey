@@ -1,4 +1,4 @@
-# blockchain-journey
+# Substrate Blockchain Journey
 A path to blockchain developers education with a focus on Polkadot, Substrate &amp; Rust. Simply put, this is my journey to blockchain education as a developer who has no professional experience or education in blockchain previously.
 
 One of the most difficult tasks I found to date, was often not understanding the content, but rather finding it. Blockchain spans a wide range of technologies from peer-to-peer networking to cryptography (not even considering the actual application of the blockchain itself). A fair amount of this education is either aimed at crypto traders or those with an extensive amount understanding of crypto development already. Neither of which may be of much help to new blockchain developers.
